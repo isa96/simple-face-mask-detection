@@ -8,7 +8,7 @@ This is API for Detecting Face Mask using Haarcascade Face and Mouth on OpenCV.
 Clone the project
 
 ```bash
-  git clone https://github.com/brianadit24/SimpleFaceMaskDetection
+  git clone https://github.com/isa96/simple-face-mask-detection.git
 ```
 
 Go to the project directory
