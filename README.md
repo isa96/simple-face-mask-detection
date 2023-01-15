@@ -61,13 +61,5 @@ Content-Type: multipart/form-data
 **Output:**<br>
 ![Result_NoMask](results/no_mask_result.jpg) 
   
-## Feedback
 
-If you have any feedback, please reach out to us at brian.adityaherman@gmail.com
-
-  
-## 🔗 Contact Me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianadityah/)
-
-Nodeflux@2021
   
